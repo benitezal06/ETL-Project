@@ -3,7 +3,7 @@ DROP TABLE population;
 
 -- Create a new table
 CREATE TABLE population (
-  COC_Number VARCHAR(10) NOT NULL,
+  COC_Number VARCHAR(10) NOT NULL PRIMARY KEY,
   Population DECIMAL
 );
 
