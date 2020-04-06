@@ -1,152 +1,58 @@
-CA-500,San Jose/Santa Clara City & County CoC
-CA-501,San Francisco CoC
-CA-502,Oakland
-CA-502,Berkeley/Alameda County CoC
-CA-502,Oakland
-CA-502,Berkeley/Alameda County CoC
-CA-503,Sacramento City & County CoC
-CA-504,Santa Rosa
-CA-504,Petaluma/Sonoma County CoC
-CA-504,Santa Rosa
-CA-504,Petaluma/Sonoma County CoC
-CA-505,Richmond/Contra Costa County CoC
-CA-506,Salinas/Monterey
-CA-506,San Benito Counties CoC
-CA-506,Salinas/Monterey
-CA-506,San Benito Counties CoC
-CA-507,Marin County CoC
-CA-508,Watsonville/Santa Cruz City & County CoC
-CA-509,Mendocino County CoC
-CA-510,Turlock
-CA-510,Modesto/Stanislaus County CoC
-CA-510,Turlock
-CA-510,Modesto/Stanislaus County CoC
-CA-511,Stockton/San Joaquin County CoC
-CA-512,Daly/San Mateo County CoC
-CA-513,Visalia/Kings
-CA-513,Tulare Counties CoC
-CA-513,Visalia/Kings
-CA-513,Tulare Counties CoC
-CA-514,Fresno City & County/Madera County CoC
-CA-515,Roseville
-CA-515,Rocklin/Placer County CoC
-CA-515,Roseville
-CA-515,Rocklin/Placer County CoC
-CA-516,Redding/Shasta
+CA-500,Santa Clara
+CA-501,San Francisco
+CA-502,Alameda
+CA-503,Sacramento
+CA-504,Sonoma
+CA-505,Contra Costa
+CA-506,Monterey
+CA-506,San Benito
+CA-507,Marin
+CA-508,Santa Cruz
+CA-509,Mendocino
+CA-510,Stanislaus
+CA-511,San Joaquin
+CA-512,San Mateo
+CA-513,Kings
+CA-513,Tulare
+CA-514,Madera
+CA-515,Placer
+CA-516,Shasta
 CA-516,Siskiyou
 CA-516,Lassen
 CA-516,Plumas
 CA-516,Del Norte
 CA-516,Modoc
-CA-516,Sierra Counties CoC
-CA-516,Redding/Shasta
-CA-516,Siskiyou
-CA-516,Lassen
-CA-516,Plumas
-CA-516,Del Norte
-CA-516,Modoc
-CA-516,Sierra Counties CoC
-CA-516,Redding/Shasta
-CA-516,Siskiyou
-CA-516,Lassen
-CA-516,Plumas
-CA-516,Del Norte
-CA-516,Modoc
-CA-516,Sierra Counties CoC
-CA-516,Redding/Shasta
-CA-516,Siskiyou
-CA-516,Lassen
-CA-516,Plumas
-CA-516,Del Norte
-CA-516,Modoc
-CA-516,Sierra Counties CoC
-CA-516,Redding/Shasta
-CA-516,Siskiyou
-CA-516,Lassen
-CA-516,Plumas
-CA-516,Del Norte
-CA-516,Modoc
-CA-516,Sierra Counties CoC
-CA-516,Redding/Shasta
-CA-516,Siskiyou
-CA-516,Lassen
-CA-516,Plumas
-CA-516,Del Norte
-CA-516,Modoc
-CA-516,Sierra Counties CoC
-CA-516,Redding/Shasta
-CA-516,Siskiyou
-CA-516,Lassen
-CA-516,Plumas
-CA-516,Del Norte
-CA-516,Modoc
-CA-516,Sierra Counties CoC
-CA-517,Napa City & County CoC
-CA-518,Vallejo/Solano County CoC
-CA-519,Chico
-CA-519,Paradise/Butte County CoC
-CA-519,Chico
-CA-519,Paradise/Butte County CoC
-CA-520,Merced City & County CoC
-CA-521,Davis
-CA-521,Woodland/Yolo County CoC
-CA-521,Davis
-CA-521,Woodland/Yolo County CoC
-CA-522,Humboldt County CoC
+CA-516,Sierra
+CA-517,Napa
+CA-518,Solano
+CA-519,Butte
+CA-520,Merced
+CA-521,Yolo
+CA-522,Humboldt
 CA-523,Colusa
 CA-523,Glenn
-CA-523,Trinity Counties CoC
-CA-523,Colusa
-CA-523,Glenn
-CA-523,Trinity Counties CoC
-CA-523,Colusa
-CA-523,Glenn
-CA-523,Trinity Counties CoC
-CA-524,Yuba City & County/Sutter County CoC
-CA-525,El Dorado County CoC
+CA-523,Trinity
+CA-524,Sutter
+CA-525,El Dorado
 CA-526,Amador
 CA-526,Calaveras
 CA-526,Mariposa
-CA-526,Tuolumne Counties CoC
-CA-526,Amador
-CA-526,Calaveras
-CA-526,Mariposa
-CA-526,Tuolumne Counties CoC
-CA-526,Amador
-CA-526,Calaveras
-CA-526,Mariposa
-CA-526,Tuolumne Counties CoC
-CA-526,Amador
-CA-526,Calaveras
-CA-526,Mariposa
-CA-526,Tuolumne Counties CoC
-CA-527,Tehama County CoC
-CA-529,Lake County CoC
+CA-526,Tuolumne
+CA-527,Tehama
+CA-529,Lake
 CA-530,Alpine
 CA-530,Inyo
-CA-530,Mono Counties CoC
-CA-530,Alpine
-CA-530,Inyo
-CA-530,Mono Counties CoC
-CA-530,Alpine
-CA-530,Inyo
-CA-530,Mono Counties CoC
-CA-600,Los Angeles City & County CoC
-CA-601,San Diego City and County CoC
-CA-602,Santa Ana
-CA-602,Anaheim/Orange County CoC
-CA-602,Santa Ana
-CA-602,Anaheim/Orange County CoC
-CA-603,Santa Maria/Santa Barbara County CoC
-CA-604,Bakersfield/Kern County CoC
-CA-606,Long Beach CoC
-CA-607,Pasadena CoC
-CA-608,Riverside City & County CoC
-CA-609,San Bernardino City & County CoC
-CA-611,Oxnard
-CA-611,San Buenaventura/Ventura County CoC
-CA-611,Oxnard
-CA-611,San Buenaventura/Ventura County CoC
-CA-612,Glendale CoC
-CA-613,Imperial County CoC
-CA-614,San Luis Obispo County CoC
+CA-530,Mono
+CA-600,Los Angeles
+CA-601,San Diego
+CA-602,Orange
+CA-603,Santa Barbara
+CA-604,Kern
+CA-606,Long Beach
+CA-607,Pasadena
+CA-608,Riverside
+CA-609,San Bernardino
+CA-611,Ventura
+CA-612,Glendale
+CA-613,Imperial
+CA-614,San Luis Obispo
